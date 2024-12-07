@@ -51,7 +51,7 @@ switch _mode do
 {
     case "init":
     {
-        TER_fnc_mapsearch = compileFinal preprocessfilelinenumbers "Custom\mapsearch\fn_mapsearch.sqf";
+        TER_fnc_mapsearch = compileFinal preprocessfilelinenumbers "mapsearch\fn_mapsearch.sqf";
         waituntil {!isnull finddisplay 12};
         _map = finddisplay 12;
         _grpSearch = _map ctrlcreate ["RscControlsGroupNoScrollbars", IDC_RSCMAP_MRKGROUP];
