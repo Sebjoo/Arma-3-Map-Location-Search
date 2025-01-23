@@ -1,7 +1,6 @@
 /*
     Author: 7erra https://github.com/7erra/marker_search 
-	Edited by: Jöö
-	Code redefine and Improvement by: DB, discord.gg/mgt
+    Edited by: Jöö
 
     Description:
     Original script is for adding a searchable list of markers to the map, which got edited to do that function for locations/citys/villages ect. 
