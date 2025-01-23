@@ -9,5 +9,3 @@ A simple edit to [7erra´s Map Marker Search Script](https://github.com/7erra/ma
 To install the script, simply place the folder "mapsearch" in your missionfile and add the content from the initPlayerLocal into yours. 
 The locations work on every Arma 3 Map, as the list gets pulled from the CFGWorlds. 
 You can also change it to specific locations if you dont want to have them all displayed. Open the cities.sqf and execlude the upper code and put in your costum locations as shown as example in the file.
-
-Shoutout to [MGTDB](https://github.com/MGTDB) for refining and improving the code for better performance
